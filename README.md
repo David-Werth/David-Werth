@@ -31,7 +31,7 @@ I'm a passionate developer with a love for crafting full-stack solutions.
 
 ## 📚 Blog
 
-🤫 coming soon
+[Read more about my projects and other interesting stuff](https://davidwerth.com/posts/)
 
 ## 📫 Let's Connect
 
