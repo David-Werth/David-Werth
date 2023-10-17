@@ -8,11 +8,11 @@ I'm a passionate developer with a love for crafting full-stack solutions.
 
 ## 💻 Tech
 
-- **Front-end:** HTML, CSS, JavaScript, React, Next.js, Tailwind.css, SCSS
+- **Front-end:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind.css, SCSS
 - **Back-end:** Node.js, Express, Next.js
 - **Databases:** MongoDB, PostgreSQL, Firebase
 - **Version Control:** Git, GitHub
-- **Testing:** Jest
+- **Testing:** Jest, React Testing Library
 - **Tools:** VSCode, Git, RapidAPI
 
 ## 🚀 Projects
@@ -28,6 +28,14 @@ I'm a passionate developer with a love for crafting full-stack solutions.
 - A full-stack chat application where users can sign-up and sign-in to chat with peers and send photos in realtime.
 - Technologies Used: React, SCSS, Firebase
 - Demo: https://firechat.davidwerth.com/
+
+### Project 3: [little-cms](https://github.com/David-Werth/little-cms) (WIP!)
+
+- A full-stack CMS plattform for managing orders and the menu of Little Lemon
+- Technologies Used: Next.js, TypeScript, MongoDB, Tailwind.css, shadcn 
+- Demo: soon!
+
+
 
 ## 📚 Blog
 
