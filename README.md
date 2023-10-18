@@ -29,10 +29,10 @@ I'm a passionate developer with a love for crafting full-stack solutions.
 - Technologies Used: React, SCSS, Firebase
 - Demo: https://firechat.davidwerth.com/
 
-### Project 3: [little-cms](https://github.com/David-Werth/little-cms) (WIP!)
+### Project 3: [little-cms](https://github.com/David-Werth/little-cms-2.0) (WIP!)
 
 - A full-stack CMS plattform for managing orders and the menu of Little Lemon
-- Technologies Used: Next.js, TypeScript, MongoDB, Tailwind.css, shadcn 
+- Technologies Used: Next.js, TypeScript, MongoDB, Tailwind.css 
 - Demo: soon!
 
 
