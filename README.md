@@ -10,7 +10,7 @@ I'm a passionate developer with a love for crafting full-stack solutions.
 
 - **Front-end:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind.css, SCSS
 - **Back-end:** Node.js, Express, Next.js
-- **Databases:** MongoDB, PostgreSQL, Firebase
+- **Databases:** Firebase, Planetscale, MongoDB, PostgreSQL
 - **Version Control:** Git, GitHub
 - **Testing:** Jest, React Testing Library
-- **Tools:** VSCode, Git, RapidAPI
+- **Tools:** VSCode, Git, RapidAPI, Postman
