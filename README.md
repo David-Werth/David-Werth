@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/werthdavid/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-ff69b4)](https://davidwerth.com/)
 
-I'm a passionate developer with a love for crafting modern web applications.
+I'm a *Junior Full-Stack Developer* with a passion for building modern web applications
 
 ## 💻 Tech
 
