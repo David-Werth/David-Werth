@@ -6,11 +6,3 @@
 
 I'm a *Junior Full-Stack Developer* with a passion for building modern web applications
 
-## 💻 Tech
-
-- **Front-end:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind.css, SCSS
-- **Back-end:** Node.js, Express, Next.js
-- **Databases:** Firebase, Planetscale, MongoDB, PostgreSQL
-- **Version Control:** Git, GitHub
-- **Testing:** Jest, React Testing Library
-- **Tools:** VSCode, Git, RapidAPI, Postman
